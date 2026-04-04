@@ -10,7 +10,7 @@ export function Documentary() {
             Documentary
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A 5-7 minute documentary showcasing my learning challenge journey, featuring clips, reflections, and key moments.
+            A 5 minute documentary showcasing my learning challenge journey, featuring clips, reflections, and key moments.
           </p>
         </div>
 
