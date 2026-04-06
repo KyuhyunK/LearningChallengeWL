@@ -18,7 +18,7 @@ const reflections = [
 const insights = [
   {
     title: "Discipline Over Motivation",
-    description: "Motivation fades, but discipline keeps you going. I showed up even when I didn&apos;t feel like it - that&apos;s what pushed my snatch from 165 to 195 lbs."
+    description: "Motivation fades, but discipline keeps you going. I showed up even when I didn't feel like it - that's what pushed my snatch from 165 to 195 lbs."
   },
   {
     title: "Progress Isn't Linear",
